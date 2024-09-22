@@ -15,3 +15,6 @@
 - **Governance**: Create and vote on governance proposals.
 - **Risk Management**: Enforce limits on maximum allocations during rebalancing.
 - **Performance Tracking**: Track the performance and value changes of the staked portfolio over time.
+
+  ## License
+  **This project is under MIT License**
